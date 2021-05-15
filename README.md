@@ -14,33 +14,41 @@ This project allows us to:
 
 ![](images/dashboard.png)
 
+
 -- Add different categories of passwords like Gmail, Yahoo, Amazon, etc.
 
 ![](images/addnewcategory.png)
+
 
 -- Manage the categories i.e edit or delete.
 
 ![](images/editpasscategory.png)
 
+
 -- View lists of categories.
 
 ![](images/viewpasswordcategory.png)
+
 
 -- Add new passwords using a form containing entries for project name, password details like username and password for the corresponding chosen category from drop-down menu.
 
 ![](images/add_new_password.png)
 
+
 -- Manage passwords like edit or delete.
 
 ![](images/editpassworddetails.png)
+
 
 -- View password details by a pop-up.
 
 ![](images/viewpassworddetails.png)
 
+
 --View lists of Passwords.
 
 ![](images/viewallpasswords.png)
+
 
 
 ## Tools Used:
