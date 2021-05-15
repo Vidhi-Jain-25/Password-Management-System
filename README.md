@@ -16,15 +16,15 @@ This project allows us to:
 
 -- Add different categories of passwords like Gmail, Yahoo, Amazon, etc.
 
-![](images/add new category.png)
+![](images/addnewcategory.png)
 
 -- Manage the categories i.e edit or delete.
 
-![](images/edit pass category.png)
+![](images/editpasscategory.png)
 
 -- View lists of categories.
 
-![](images/view password category.png)
+![](images/viewpasswordcategory.png)
 
 -- Add new passwords using a form containing entries for project name, password details like username and password for the corresponding chosen category from drop-down menu.
 
@@ -32,15 +32,15 @@ This project allows us to:
 
 -- Manage passwords like edit or delete.
 
-![](images/edit password details.png)
+![](images/editpassworddetails.png)
 
 -- View password details by a pop-up.
 
-![](images/view password details.png)
+![](images/viewpassworddetails.png)
 
 --View lists of Passwords.
 
-![](images/view all passwords.png)
+![](images/viewallpasswords.png)
 
 
 ## Tools Used:
