@@ -15,8 +15,13 @@ To manage our passwords, we need to create an account and then login using Sign 
 It allows us to:
 
 -- Add different categories of passwords like Gmail, Yahoo, Amazon, etc.
+
 -- Manage the categories i.e edit or delete.
+
 -- View lists of categories.
+
 -- Add new passwords using a form containing entries for project name, password details like username and password for the corresponding chosen category from drop-down menu.
+
 -- Manage passwords like view, edit or delete.
+
 --View lists of Passwords.
