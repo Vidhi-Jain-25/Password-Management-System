@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 var mongoosePaginate = require('mongoose-paginate');
-mongoose.connect('mongodb+srv://root:1234567890@cluster0.ixdnz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', { useNewUrlParser: true, useCreateIndex: true, });
+mongoose.connect('', { useNewUrlParser: true, useCreateIndex: true, });
 
 var conn = mongoose.Collection;
 var passSchema = new mongoose.Schema({
